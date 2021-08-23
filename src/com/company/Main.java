@@ -3,9 +3,7 @@ package com.company;
 //import org.openstreetmap.osmosis.xml.common.CompressionMethod;
 //import javax.sql.rowset.spi.XmlReader;
 
-//import org.openstreetmap.osmosis.xml.v0_6.XmlReader;
-//import org.openstreetmap.osmosis.xml.v0_6.XmlWriter;
-//import crosby.binary.osmosis.OsmosisReader;
+
 
 
 import java.io.IOException;

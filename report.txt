@@ -1,2 +1,8 @@
+Basicosmparser directory contains code for parse osm files and create csv file
+Interface Block is implemented by 2 classes: dataBlock and infoBlock
+fileOperations class which contains code to work with data
+
 1. Convert OSM file to CSV.
-2. Write data from csv file to datafile
+2. Read data from CSV to ArrayList of Block
+3. Write data from ArrayList to datafile by chunks
+
