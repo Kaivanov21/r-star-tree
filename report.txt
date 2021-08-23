@@ -1,0 +1,2 @@
+1. Convert OSM file to CSV.
+2. Write data from csv file to datafile
